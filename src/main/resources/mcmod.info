@@ -1,0 +1,16 @@
+[
+{
+  "modid": "wouldbeashame",
+  "name": "Would Be A Shame",
+  "description": "What a rotten way to die.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["BordListian"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
